@@ -44,3 +44,35 @@ In fact, according to the Brookings Institute, those businesses “account for l
 An important distinction is custom software development as opposed to commercial software development. | Важным отличием является разработка программного обеспечения на заказ, в отличие от разработки коммерческого программного обеспечения. | Важным отличием является разработка программного обеспечения на заказ в отличие от разработки коммерческого программного обеспечения.
 Custom software development is the process of designing, creating, deploying and maintaining software for a specific set of users, functions or organizations. | Разработка программного обеспечения на заказ - это процесс проектирования, создания, развертывания и обслуживания программного обеспечения для определенного набора пользователей, функций или организаций. | Разработка специализированного программного обеспечения - это процесс проектирования, создания, развертывания и обслуживания программного обеспечения для определенного набора пользователей, функций или организаций.
 In contrast, commercial off-the-shelf software (COTS) is designed for a broad set of requirements, allowing it to be packaged and commercially marketed and distributed. | Напротив, коммерческое готовое программное обеспечение (COTS) разработано для широкого набора требований, позволяя его упаковывать, коммерчески продавать и распространять. | В отличие от этого, коммерческое программное обеспечение, готовое к продаже и распространяемое на коммерческой основе, предназначено для удовлетворения широкого спектра требований.
+
+4. Dictionary
+
+provide
+:   1. гл. (provide with) снабжать; доставлять; обеспечивать (кого-л. / что-л.)давать, предоставлять; обеспечивать
+:   2.(provide for) обеспечивать средствами к существованию (кого-л.)
+:   3. заготовлять, запасать; сберегать
+:   4. (provide against) принимать (защитные) меры в отношении (чего-л.), готовиться к (чему-л.)
+:   5. обусловливать, предусматривать (что-л.)
+
+necessities
+linkers
+perform
+refers
+embedded 
+considered
+primarily
+conducted
+interact
+overlap
+vary greatly across
+merging 
+conducting 
+devise
+instance
+adhere
+overall
+maintenance
+confined 
+semiconductor
+distinction
+off-the-shelf
