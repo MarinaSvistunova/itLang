@@ -10,4 +10,4 @@
 # Answer
 1. Course: https://www.coursera.org/learn/learn-korean
 2. Learning sequence:
-   ![img/KoreanCourse.png](img/KoreanCourse.png)
+   ![](img/KoreanCourse.png)
