@@ -11,3 +11,5 @@
 1. Course: https://www.coursera.org/learn/learn-korean
 2. Learning sequence:
    ![](https://github.com/MarinaSvistunova/itLang/blob/master/img/KoreanCourse.png)
+3. Test from course:
+   ![](https://github.com/MarinaSvistunova/itLang/blob/master/img/KoreanTest.png)
