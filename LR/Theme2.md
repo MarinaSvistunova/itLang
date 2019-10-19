@@ -9,3 +9,5 @@
 
 # Answer
 1. Course: https://www.coursera.org/learn/learn-korean
+2. Learning sequence:
+   ![https://github.com/MarinaSvistunova/itLang/blob/master/img/KoreanCourse.md.svg]()
