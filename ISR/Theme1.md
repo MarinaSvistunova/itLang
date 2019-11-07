@@ -21,3 +21,6 @@
   * https://wooordhunt.ru/
 * Ozdic
   * http://www.ozdic.com/
+
+Облако тегов по теме: "Изучение лексики с помощью электронных словарей"
+![](https://github.com/MarinaSvistunova/itLang/blob/master/img/wordcloud.png)
