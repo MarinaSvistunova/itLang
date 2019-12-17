@@ -74,3 +74,33 @@
 ![](https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-13-01.PNG)
 
 Переход на отдельную букву аналогичен разделу полного списка букв (List -> All).
+
+- Поиск (Search)
+
+На вкладке можно в строке поиска вбить любое интересующее произношением слово и получить разбиение данного слова на звуки, на которые можно перейти для изучения:
+
+![](https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-15-03.PNG)
+
+4. Gоследовательность действий, необходимых для тренировки произношения дифтонгов с помощью данного приложения:
+
+- Перейти пути: List -> Vowels
+- Пролистать раздел до подраздела Diphthongs
+
+![](https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-13-14.PNG)
+
+- Выбрать один из предложенных дифтонгов и просмотреть анимацию:
+
+![](https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-13-23.PNG)
+
+- Посмотреть видео на вкладке Video:
+
+![](https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-13-27.PNG)
+
+- Пролистать Annotations:
+
+![](https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-13-31.PNG)
+![](https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-13-37.PNG)
+![](https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-13-40.PNG)
+![](https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-13-43.PNG)
+![](https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-13-46.PNG)
+![](https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-13-50.PNG)
