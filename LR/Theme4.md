@@ -38,7 +38,7 @@
 - Главный экран приложения (Home)
 
 Можно посмотреть такую информацию о приложении, как Последние обновления (Recent Updates), О приложении (About), Credits, Выбрать язык приложения (Choose your Language).
-{% img https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-11-48.PNG 100x100 %}
+
 ![](https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-11-48.PNG)
 
 - Полный список букв (List -> All)
