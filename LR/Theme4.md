@@ -10,6 +10,7 @@
 
 1. Установленное приложение:
 
+<img src="https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-38-29.PNG" width="48">
 ![](https://github.com/MarinaSvistunova/itLang/blob/master/img/2019-12-17%2023-38-29.PNG)
 
 2. Список разделов и функций:
